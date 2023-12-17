@@ -1,0 +1,14 @@
+/Users/rinaldiputra/Desktop/Code/learning/kasir/bin/Debug/net8.0/kasir
+/Users/rinaldiputra/Desktop/Code/learning/kasir/bin/Debug/net8.0/kasir.deps.json
+/Users/rinaldiputra/Desktop/Code/learning/kasir/bin/Debug/net8.0/kasir.runtimeconfig.json
+/Users/rinaldiputra/Desktop/Code/learning/kasir/bin/Debug/net8.0/kasir.dll
+/Users/rinaldiputra/Desktop/Code/learning/kasir/bin/Debug/net8.0/kasir.pdb
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/kasir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/kasir.AssemblyInfoInputs.cache
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/kasir.AssemblyInfo.cs
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/kasir.csproj.CoreCompileInputs.cache
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/kasir.dll
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/refint/kasir.dll
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/kasir.pdb
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/kasir.genruntimeconfig.cache
+/Users/rinaldiputra/Desktop/Code/learning/kasir/obj/Debug/net8.0/ref/kasir.dll
